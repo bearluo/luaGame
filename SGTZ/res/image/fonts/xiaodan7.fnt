@@ -1,0 +1,14 @@
+info face="xiaodan7" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=62 base=26 scaleW=128 scaleH=128 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="xiaodan7.png"
+chars count=8
+char id=21069 x=43 y=84 width=41 height=41 xoffset=0 yoffset=20 xadvance=46 page=0 chnl=0 letter="前"
+char id=24448 x=44 y=0 width=41 height=42 xoffset=0 yoffset=20 xadvance=46 page=0 chnl=0 letter="往"
+char id=20805 x=85 y=43 width=40 height=41 xoffset=0 yoffset=20 xadvance=45 page=0 chnl=0 letter="充"
+char id=20540 x=0 y=41 width=43 height=42 xoffset=0 yoffset=20 xadvance=48 page=0 chnl=0 letter="值"
+char id=39046 x=0 y=84 width=42 height=42 xoffset=0 yoffset=20 xadvance=47 page=0 chnl=0 letter="领"
+char id=21462 x=0 y=0 width=43 height=40 xoffset=0 yoffset=21 xadvance=48 page=0 chnl=0 letter="取"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=29 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=232 page=0 chnl=0 letter="	"
+
+kernings count=0
